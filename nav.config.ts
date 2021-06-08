@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/Vialiceq/nav',
 
   // 部署分支
   branch: 'main',
@@ -17,13 +17,13 @@ const c: IConfig = {
   homeUrl: 'https://nav3.cn',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '发现Web - By Q',
 
   // 网站描述
   description: '发现导航 - 精选实用导航网站',
 
   // 网站关键字
-  keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
+  keywords: '导航,前端资源,社区站点,实用工具,学习资源,运营,网络安全,node.js',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
   theme: 'Light',
