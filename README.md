@@ -77,7 +77,7 @@
 
 5、务必修改项目配置文件 [nav.config.ts](nav.config.ts)
 
-6、5分钟后打开 https://用户名.github.io/nav 就能看到一个非常强大的导航网站了。
+6、5分钟后打开 https://vialiceq.github.io/nav 就能看到一个非常强大的导航网站了。
 
 ### 推荐方式二(Vercel免费)
 和方式一的步骤一样，除了第4步不用。
